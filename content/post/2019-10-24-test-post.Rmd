@@ -6,5 +6,11 @@ slug: test-post
 categories: []
 tags: []
 ---
-#Big Words
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Big Words
+
 ## Smaller words
